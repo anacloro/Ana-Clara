@@ -5,7 +5,12 @@ body{
     font-family: "Shadows Into Light", cursive;
     margin-bottom: 100px;
 }
-
+header{
+    border-bottom: solid 5px beige;
+    padding: 20px;
+    font-size: 32px;
+    color: plum;
+}
 .chamada{
     background: purple;
     margin-top: 80px;
